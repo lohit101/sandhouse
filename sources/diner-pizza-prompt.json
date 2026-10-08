@@ -1,0 +1,13 @@
+{
+  "mode": "built-in image_gen; reference-guided generation",
+  "requests": 1,
+  "retries": 0,
+  "reference": "/Users/lohit/.codex/generated_images/sandhouse-reference/moment-1.jpg",
+  "prompt": "Use case: photorealistic-natural\nAsset type: wide 3:2 editorial restaurant food photo for Sandhouse All Day Diner's website food section.\nPrimary request: create one new diner-table pizza photograph using the official pizza reference only for the food's visual appearance. This is a creative concept, not an assertion of exact menu SKU photography.\nInput image: official website pizza photograph; preserve the pizza's thin hand-stretched form, lightly blistered rim, tomato-red base, creamy melted cheese, scattered dark brown sliced mushroom-like rounds, and delicate pale shredded topping as visually shown. Do not reproduce the tabletop card, words, branding, beverages, background food, or original venue.\nScene/backdrop: a close intimate diner-table setting with rustic dark timber, unobtrusive rich olive tones softly out of focus. No identifying or invented restaurant venue.\nSubject: one freshly baked pizza with appetizing honest portions and topping appearance matching the reference, served on one plain white ceramic plate. No salad because the reference does not support one, and no other dishes or tabletop objects.\nStyle/medium: actual premium professional F&B photography, realistic edible surfaces, warm editorial food shoot, subtle fine real film grain coordinated with a brioche burger and golden canteen bread-roll shoot.\nComposition/framing: landscape 3:2, close table angle at 45 degrees, pizza visually dominant with enough context to see ceramic plate and dark timber table, naturally generous crop, shallow depth of field focused on bubbling cheese, toppings, and crust.\nLighting/mood: warm side lighting combined with direct-flash texture, believable appetizing highlights, intimate and welcoming.\nColor palette: warm cream ceramic, tomato vermilion, golden dough, rich dark timber, faint muted olive surroundings.\nConstraints: no people, no text, no tabletop cards, no signs, no labels, no logos, no watermark, no imaginary branded packaging, no invented venue, no additional food or garnish, no 3D render appearance, no artificial oversized portions.",
+  "source": "/Users/lohit/.codex/generated_images/01a11c0f-a281-7711-b88d-404d3ca80bb2/exec-df144f0f-353b-424f-87c1-ea83734f9f1c.png",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "path": "/Users/lohit/.codex/generated_images/sandhouse-demo/diner-pizza-concept.png"
+}

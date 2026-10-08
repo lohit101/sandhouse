@@ -1,0 +1,87 @@
+[
+  {
+    "filename": "logo-group.png",
+    "source": "https://sandhousehospitality.com/wp-content/uploads/2024/07/logo-1-2.png",
+    "kind": "Official Sandhouse website asset"
+  },
+  {
+    "filename": "logo-sandburgs.png",
+    "source": "https://sandhousehospitality.com/wp-content/uploads/2024/09/sandburgs-new-logo.png",
+    "kind": "Official Sandhouse website asset"
+  },
+  {
+    "filename": "logo-canteen.png",
+    "source": "https://sandhousehospitality.com/wp-content/uploads/2024/07/canteen-1.png",
+    "kind": "Official Sandhouse website asset"
+  },
+  {
+    "filename": "logo-diner.png",
+    "source": "https://sandhousehospitality.com/wp-content/uploads/2024/07/Sandhouse_Vertical-CC-1.png",
+    "kind": "Official Sandhouse website asset"
+  },
+  {
+    "filename": "sandburgs-food.webp",
+    "source": "https://sandhousehospitality.com/wp-content/uploads/2024/09/food-1-1.jpg",
+    "kind": "Official Sandhouse website asset"
+  },
+  {
+    "filename": "sandburgs-shake.webp",
+    "source": "https://sandhousehospitality.com/wp-content/uploads/2024/09/food-4-1.jpg",
+    "kind": "Official Sandhouse website asset"
+  },
+  {
+    "filename": "canteen-food.webp",
+    "source": "https://sandhousehospitality.com/wp-content/uploads/2024/09/food-4.jpg",
+    "kind": "Official Sandhouse website asset"
+  },
+  {
+    "filename": "canteen-chai.webp",
+    "source": "https://sandhousehospitality.com/wp-content/uploads/2024/09/food-5.jpg",
+    "kind": "Official Sandhouse website asset"
+  },
+  {
+    "filename": "diner-venue.webp",
+    "source": "https://sandhousehospitality.com/wp-content/uploads/2024/09/sandhouse-place.jpg",
+    "kind": "Official Sandhouse website asset"
+  },
+  {
+    "filename": "diner-food.webp",
+    "source": "https://sandhousehospitality.com/wp-content/uploads/2024/09/the-food-1-1.jpg",
+    "kind": "Official Sandhouse website asset"
+  },
+  {
+    "filename": "diner-moment.webp",
+    "source": "https://sandhousehospitality.com/wp-content/uploads/2024/09/moment-1.jpg",
+    "kind": "Official Sandhouse website asset"
+  },
+  {
+    "filename": "diner-moment-2.webp",
+    "source": "https://sandhousehospitality.com/wp-content/uploads/2024/09/moment-2.jpg",
+    "kind": "Official Sandhouse website asset"
+  },
+  {
+    "filename": "story-original.webp",
+    "source": "https://sandhousehospitality.com/wp-content/uploads/2024/08/Group-8-2-2.png",
+    "kind": "Official Sandhouse website asset"
+  },
+  {
+    "filename": "hero-food.webp",
+    "source": "sources/generated/burger-hero-concept.png",
+    "kind": "AI-generated creative concept, guided by official food references"
+  },
+  {
+    "filename": "canteen-concept.webp",
+    "source": "sources/generated/canteen-bread-rolls-concept.png",
+    "kind": "AI-generated creative concept, guided by official food references"
+  },
+  {
+    "filename": "diner-pizza-concept.webp",
+    "source": "sources/generated/diner-pizza-concept.png",
+    "kind": "AI-generated creative concept, guided by official food references"
+  },
+  {
+    "filename": "mark-group.png",
+    "source": "https://sandhousehospitality.com/wp-content/uploads/2024/07/logo-1-1.png",
+    "kind": "Official Sandhouse website brand mark"
+  }
+]

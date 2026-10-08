@@ -1,0 +1,34 @@
+{
+  "method": "FFmpeg-composed motion graphics from AI concept stills and official website imagery",
+  "videos": [
+    "official-food-loop.mp4",
+    "burger-loop.mp4",
+    "canteen-loop.mp4",
+    "sandhouse-film.mp4"
+  ],
+  "officialFootage": {
+    "filename": "official-food-loop.mp4",
+    "source": "https://sandhousehospitality.com/wp-content/uploads/2024/07/5f06-4f85-9c90-66fe8d2bfc80.mp4"
+  },
+  "palettes": {
+    "group": [
+      "#191a19",
+      "#ef7f1a"
+    ],
+    "sandburgs": [
+      "#d94328",
+      "#fffaed"
+    ],
+    "canteen": [
+      "#d5433a",
+      "#ecb722",
+      "#fffaed"
+    ],
+    "diner": [
+      "#854617",
+      "#fffaed"
+    ]
+  },
+  "audio": "Silent for website playback",
+  "generatedRestaurantFootage": false
+}

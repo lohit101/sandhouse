@@ -1,0 +1,31 @@
+{
+  "name": "sandhouse-hospitality-demo",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "assets:prepare": "node scripts/prepare-assets.mjs",
+    "assets:motion": "node scripts/render-motion.mjs"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "^2.1.10",
+    "@radix-ui/react-dialog": "^1.1.15",
+    "motion": "^12.23.24",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.18.6",
+    "@types/react": "^19.1.16",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.4",
+    "ffmpeg-static": "^5.2.0",
+    "playwright": "^1.55.1",
+    "sharp": "^0.35.5",
+    "typescript": "~5.9.3",
+    "vite": "^7.1.9"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "mode": "built-in image_gen; reference-guided generation",
+  "requests": 2,
+  "retries": 0,
+  "assets": [
+    {
+      "asset": "burger-hero-concept.png",
+      "source": "/Users/lohit/.codex/generated_images/01a11c0f-a281-7711-b88d-404d3ca80bb2/exec-fdd6ad7e-3687-401e-bd0c-a57c2866c77d.png",
+      "prompt": "Use case: photorealistic-natural\nAsset type: premium food photography for a large website hero media panel, landscape 3:2.\nPrimary request: create a new editorial F&B photograph inspired by the provided ingredient reference, not an edit of its diagram and not a claim of exact menu SKU photography.\nInput image: reference image of an actual Sandburgs burger; use only its grounded food appearance: rounded soft brioche, thick housemade patty, melted yellow cheese, chunky pickles, chopped pink onion, creamy house sauce. Ignore its labels and black cutout background.\nScene/backdrop: an intimate Delhi NCR diner table, rich olive and dark timber surroundings, unobtrusive and softly out of focus, no identifying venue.\nSubject: one generous gourmet burger with naturally realistic portion size, soft glossy brioche bun, thick browned housemade patty, melted cheese, pickles, sauce, resting on a white ceramic plate with a restrained portion of fries. A plain iced coffee glass sits partly cropped at the edge, one small plain sauce bowl nearby.\nStyle/medium: an actual professional restaurant food photography shoot, tangible appetizing textures, candid editorial realism, subtle fine film grain.\nComposition/framing: wide landscape 3:2, close table perspective at 45 degrees, burger dominant and sharply focused in central-right area; intentional breathing room at left, full bun visible, plate naturally framed, supporting objects secondary.\nLighting/mood: direct on-camera flash mixed with warm window light, warm intimate diner mood, realistic highlights on bun and sauce, strong delicious tactile presence.\nColor palette: warm cream, rich olive, dark timber, muted vermilion only in a folded napkin or plain plate liner.\nConstraints: no people, no text, no labels, no logos, no typography, no watermark, no fictional branded packaging, no invented restaurant interior, no 3D render look, no oversized artificial burger, no floating food, no diagram lines.",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "path": "/Users/lohit/.codex/generated_images/sandhouse-demo/burger-hero-concept.png"
+    },
+    {
+      "asset": "canteen-bread-rolls-concept.png",
+      "source": "/Users/lohit/.codex/generated_images/01a11c0f-a281-7711-b88d-404d3ca80bb2/exec-ba34b064-ddd9-43d1-9eed-4657f5df3614.png",
+      "prompt": "Use case: photorealistic-natural\nAsset type: premium Indian canteen still-life photograph for a website, landscape 4:3.\nPrimary request: create a new food photograph inspired by the provided bread-roll reference, not an edit of the original scene.\nInput image: reference image of actual Canteen Project crisp golden bread rolls; preserve their oblong elongated form, crispy fine breadcrumb crust, rich golden brown appearance, and realistic snack portion size. Do not copy the source backdrop or extra dishes.\nScene/backdrop: warm dark wood table in an intimate Indian canteen atmosphere, no visible identifying venue.\nSubject: two crisp golden bread rolls like the reference on one stainless-steel plate, one steaming clear glass of chai, one small stainless-steel bowl containing green chutney, one tiny plain folded napkin. These are the only objects and dishes.\nStyle/medium: actual professional F&B photography, premium editorial still-life, realistic food and surfaces, tangible crispy texture and subtle real film grain, quality coordinated with a warmly lit diner burger shoot.\nComposition/framing: landscape 4:3, close-up at a 45-degree table angle, bread rolls dominant in the foreground and fully visible; chai and chutney supporting quietly, simple intentional framing.\nLighting/mood: atmospheric late evening warm side light, gentle real shadows, subtle steam, warmly inviting food with crisp surface detail.\nColor palette: golden brown food, brushed steel, warm dark timber, tea caramel, natural chutney green.\nConstraints: no imaginary branded packaging, no typography, no logos, no labels, no watermark, no extra dishes or ingredients, no cutlery, no garnish beyond the source food, no people, no 3D render appearance, no plastic food texture.",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "path": "/Users/lohit/.codex/generated_images/sandhouse-demo/canteen-bread-rolls-concept.png"
+    }
+  ]
+}
